@@ -8,3 +8,6 @@ NKA-Wallet-Generator is focused on Incakoin (NKA) only and can be downloaded on 
 Download this from Github and open the index.html file directly from your computer
 
 I recommended using Google Chrome
+
+If you want to add your own design, contact Yannic on IRC freenode #incakoin or fork your own copy and pull request
+Thanks
