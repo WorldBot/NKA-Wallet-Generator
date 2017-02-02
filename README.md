@@ -12,4 +12,4 @@ I recommended using Google Chrome
 If you want to add your own design, contact Yannic on IRC freenode #incakoin or fork your own copy and pull request
 Thanks
 
-You can see page running at https://crypto.life/incakoin/NKA-Wallet-Generator/
+You can see page running at https://cryptoservices.net/incakoin/NKA-Wallet-Generator/
